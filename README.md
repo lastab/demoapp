@@ -1,2 +1,2 @@
 # demoapp
-a simple practice app to learn rails
+This is a simple ruby on rails project.
